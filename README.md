@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrianWolko
-- 👀 I’m interested in every technology tipes
+- 👀 I’m interested in every technology types
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on filantropic projects
 - 📫 How to reach me linkedin https://www.linkedin.com/in/brian-wolko/ 
